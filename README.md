@@ -28,13 +28,5 @@
 
 ### Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didix-gmt&layout=donut&theme=dark&hide=html,css&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didix-gmt&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=didix-gmt&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didix-gmt&layout=donut&theme=dark&hide=Java,JavaScript,Typst&langs_count=10" />
 </p>
