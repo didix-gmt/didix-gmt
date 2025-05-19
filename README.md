@@ -8,11 +8,9 @@
 
 📫 Contact: [gamiettec@gmail.com](mailto:gamiettec@gmail.com)
 
----
 
 > _“Code. Train. Sleep. Repeat.”_
 
----
 
 ### Languages  
 <p>
