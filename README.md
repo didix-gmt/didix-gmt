@@ -1,13 +1,10 @@
-# 👋 Hi, I'm Didix
+o# 👋 Hi, I'm Didix
 
 📚 What I do:
 - 🔧 C / C++ / Python / SQL
 - 📡 Networking protocols, sockets, ARQ
 - ♟️ Chess engine development
 - 🧠 Machine learning and computer vision
-
-📫 Contact: [gamiettec@gmail.com](mailto:gamiettec@gmail.com)
-
 
 > _“Code. Train. Sleep. Repeat.”_
 
