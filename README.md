@@ -1,3 +1,18 @@
+# 👋 Hi it's Didix
+
+📚 Ce que je fais :
+- 🔧 C / C++ / Python / SQL
+- 📡 Protocoles réseau, sockets, ARQ
+- ♟️ Moteur d'échecs
+- 🧠 Machine learning et vision par ordinateur
+
+📫 Contact : [gamiettec@gmail.com](mailto:gamiettec@gmail.com)
+
+---
+
+> _“Code. Train. Sleep. Repeat.”_
+
+
 <!-- Langages -->
 ### Languages  
 <p>
