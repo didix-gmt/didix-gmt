@@ -1,4 +1,4 @@
-o# 👋 Hi, I'm Didix
+👋 Hi, I'm Didix
 
 📚 What I do:
 - 🔧 C / C++ / Python / SQL
